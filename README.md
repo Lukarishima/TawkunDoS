@@ -11,6 +11,7 @@ FITUR:
 - [🔥] SOCKS Mode | Kadang Eror
 - [☢️] Http/s DDOS
 - [🐍] URL/IP
+- [☁️] Bypass CloudFlare Free
 
 <h2>Cara Install</h2>
 Tool ini menggunakan python3 
