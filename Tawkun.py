@@ -17,7 +17,7 @@ print('''
   |_ (_| \/\/ |< |_| | |  DoS.
                          
 
-    Recode By Bandhitawkunthi/Nur                            
+    Recode By Lukarishiki/Nur                            
 	''') # la grafica ci sta
 
 
